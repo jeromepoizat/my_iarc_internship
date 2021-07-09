@@ -31,7 +31,7 @@ You will find further details about the project and references in the report (in
 
 ## Getting Started
 
-This project is implented in R. You will need a computer with good memory capabilities and access to several R packages to run the analysis.
+This project is coded in R. You will need a computer with good memory capabilities and access to several R packages to run the analysis.
 List of required packages are detailed in the source code.
 
 
