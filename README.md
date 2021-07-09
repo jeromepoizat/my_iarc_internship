@@ -1,6 +1,6 @@
 # Assessment of dimensionality reduction methods for the detection of intermediate cancer phenotypes from 'omic' data
 
-This repository is dedicaced to my master's degree internship project at the International Agency for Research on Cancer (IARC) with the Genetic Cancer Susceptibility Group.
+This repository is dedicaced to my master's degree internship project at the International Agency for Research on Cancer (IARC) with the Genetic Cancer Susceptibility Group (2019).
 
 Cancer classifications are a very important tool in cancer clinical treatments as it allows a precise tumor diagnostic and therefore the prescription of the most adequate and effective treatments available.
 Recent breakthroughs in sequencing technology have lead to discovering that different cancer types of a same tissue do not exist in distinct classes but are rather linked to one an other in a spectrum of possible phenotypes. This discovery raises the concern of properly detecting rare cancers of intermediate phenotype as they have a higher risk of being miss classified or may require a very specific treatment.
