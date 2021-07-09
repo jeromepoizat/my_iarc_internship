@@ -16,13 +16,14 @@ The project is devided into the following tasks:
 
 2) Create a script that produces a PCA & UMAP dimension reduction (DR), the DR projections of the simulated intermediate phenotype cancers of known mixture are compared to their expected projection, the difference between experimental and theoretical projections is measured using the R squared method.
 This script allows to explore different UMAP parameters to assess how the average R square result is affect by those parameters.
-The script outputs a boxplot of R square values for each parameter.
-[Boxplot script](simulationsBoxplot_PCA_UMAP.R)(simulationsBoxplot_PCA_UMAP.R)
+The script outputs a boxplot of R square values for each parameter. 
+[Boxplot script](scripts/simulationsBoxplot_PCA_UMAP.R)(simulationsBoxplot_PCA_UMAP.R)
 Example of script output : 
-[Simulation example](plot_examples/simulation_param_n_neighbors.png)(plot_examples/simulation_param_n_neighbors.png),
+[Simulation example](plot_examples/simulation_param_n_neighbors.png)(plot_examples/simulation_param_n_neighbors.png), 
 [Boxplot example](plot_examples/boxplot_param_n_neighbors.png)(plot_examples/boxplot_param_n_neighbors.png)
 
 3) Pushing further step 2, we can represent the average R square values of several UMAP parameter combinations by creating a grid of heatmaps. The goal in this step is to try and assess what parameters of UMAP allows the most accurate projection of the intermediate phenotype cancers.
+[Heatmap script](scripts/simulationsHeatmap.R)(scripts/simulationsHeatmap.R), 
 Example of heatmap grid : [Heatmap example](plot_examples/heatmap_grid.png)(plot_examples/heatmap_grid.png)
 
 You will find further details about the project and references in the report (in french) : [Report](final_report.pdf)(final_report.pdf)
