@@ -1,4 +1,4 @@
-# Project Title : Assessment of dimensionality reduction methods for the detection of intermediate cancer phenotypes from 'omic' data
+# Assessment of dimensionality reduction methods for the detection of intermediate cancer phenotypes from 'omic' data
 
 This repository is dedicaced to my master's degree internship project at the International Agency for Research on Cancer (IARC) with the Genetic Cancer Susceptibility Group.
 
@@ -26,14 +26,12 @@ Example of script output :
 [Heatmap script](scripts/simulationsHeatmap.R)(scripts/simulationsHeatmap.R), 
 Example of heatmap grid : [Heatmap example](plot_examples/heatmap_grid.png)(plot_examples/heatmap_grid.png)
 
-You will find further details about the project and references in the report (in french) : [Report](final_report.pdf)(final_report.pdf)
+You will find further details about the project and references in the report (in french): [Report](final_report.pdf)(final_report.pdf)
 
 
 ## Getting Started
 
-This project is coded in R. You will need a computer with good memory capabilities and access to several R packages to run the analysis.
-List of required packages are detailed in the source code.
-
+This project is coded in R. List of required packages are detailed in the source code.
 
 ## Author
 
